@@ -69,10 +69,20 @@
 
  ## 📊 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elie-dev25
+
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elie-dev25
 &layout=compact&theme=dark&hide_border=true
 &exclude_repo=mediconnet-app,gmh-sarl
 &hide=purbasic,html,css,php" />
+</p>
+
+---
+
+<p align="center">
+  <i>Available for CDD · CDI · Freelance missions</i><br/>
+  <a href="https://elie-njine.online">elie-njine.online</a>
+</p>
 
 ---
 
