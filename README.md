@@ -66,6 +66,18 @@
 | 📊 | [Data Engineer](https://www.datacamp.com/certificate/DE0014866994853) | DataCamp | Juin 2026 |
 | 📈 | [Associate Data Engineer](https://www.datacamp.com/certificate/DEA0012007547758) | DataCamp | Mai 2026 |
 | 🐍 | [Scientific Computing with Python](https://freecodecamp.org/certification/elie_dev25/python-v9) | freeCodeCamp | Mai 2026 |r">
+
+ ## 📊 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elie-dev25
+&layout=compact&theme=dark&hide_border=true
+&exclude_repo=mediconnet-app,gmh-sarl
+&hide=purbasic,html,css,php" />
+
+---
+
+<p align="center">
   <i>Available for CDD · CDI · Freelance missions</i><br/>
   <a href="https://elie-njine.online">elie-njine.online</a>
 </p>
+
